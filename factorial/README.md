@@ -2,6 +2,8 @@
 
 Given a number, return true if the input is a factorial of any natural number.
 
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" align="right" />
+
 ### Example
 
 ```
